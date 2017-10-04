@@ -1,8 +1,12 @@
 {
     "name": "tslint-strict-window-access",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "main": "rules.json",
     "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aszmyd/tslint-strict-window-access.git"
+    },
     "scripts": {
         "prepublishOnly": "tsc"
     },
