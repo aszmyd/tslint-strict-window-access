@@ -1,0 +1,6 @@
+{
+    "rulesDirectory": "./dist",
+    "rules": {
+        "strict-window-access": true
+    }
+}

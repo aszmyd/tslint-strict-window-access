@@ -1,0 +1,13 @@
+{
+    "name": "tslint-strict-window-access",
+    "version": "0.1.0",
+    "main": "rules.json",
+    "license": "Apache-2.0",
+    "scripts": {
+        "prepublishOnly": "tsc"
+    },
+    "devDependencies": {
+        "tslint": "^5.7.0",
+        "typescript": "^2.5.3"
+    }
+}
