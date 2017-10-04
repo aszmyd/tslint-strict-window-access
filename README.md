@@ -16,7 +16,7 @@ This rule will throw you error when you try to access something else than `postM
 
 ### How to use
 
-Add `` to `extends` list in your `tslint.json`:
+Add `tslint-strict-window-access` to `extends` list in your `tslint.json`:
 
     {
       "extends": ["tslint-strict-window-access"],
